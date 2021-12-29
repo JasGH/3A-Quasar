@@ -6528,7 +6528,7 @@ vue-style-loader@4.1.3:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-upload-component@^3.0.50:
+vue-upload-component@^^3.0.50:
   version "3.0.50"
   resolved "https://registry.yarnpkg.com/vue-upload-component/-/vue-upload-component-3.0.50.tgz#2e1acd9ae9f9b9cc53a4e8978050879ca0d6275c"
   integrity sha512-p5xh2kvHcjGE+OObKfO59nYM5+nvpt5J2s/Efop/EQ+ec7PEoPZA7Ph+KUNTOSk2s5FqBTQkIrrQ/QSssHIzcA==
